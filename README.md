@@ -4,10 +4,7 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=danikaharu.danikaharu)
 
-I am a full-stack software engineer. I love programming and sport.
-
-As a software engineer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
-
+I am a programmer at Dinas Komunikasi dan Informatika Bone Bolango
 
 📈 **My GitHub Stats:**
 
@@ -19,9 +16,3 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 
 </br>
 
-  
-**Talking about Personal Stuffs:**
-
-- 👨🏻‍💻 I’m currently working on something cool;
-- 🚀 I’m currently learning Vue and Tailwind;
-- 📫 How to reach me: dani.kaharu17@gmail.com;
